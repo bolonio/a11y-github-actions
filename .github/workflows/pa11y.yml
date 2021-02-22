@@ -1,9 +1,9 @@
 name: pa11y
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
   pa11y:
     runs-on: ubuntu-latest
