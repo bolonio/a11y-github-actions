@@ -23,7 +23,7 @@ You can read all the details in my blog:
 
 ## Contributing
 
-If you have any suggestion for how this project could be improved, please read the [contributing guidelines](https://github.com/bolonio/a11y-github-actions/blob/master/CONTRIBUTING.md).
+If you have any suggestion for how this project could be improved, please read the [contributing guidelines](https://github.com/bolonio/a11y-github-actions/blob/main/CONTRIBUTING.md).
 
 ## Author & Contributors
 
