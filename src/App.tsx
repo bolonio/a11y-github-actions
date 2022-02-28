@@ -11,6 +11,7 @@ function App() {
   return (
     <div>
       <Image />
+      <h1>Hello</h1>
     </div>
   );
 }
