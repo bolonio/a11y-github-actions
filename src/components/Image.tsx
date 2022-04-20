@@ -1,7 +1,5 @@
-import React from "react"
-import myImage from "./image.jpeg"
+import image from './image.jpg'
 
-export const Image: React.FC<{ alt?: string; role?: string }> = ({
-  alt,
-  role,
-}) => <img src={myImage} role={role} alt={alt} width="600px" />
+export const Image = ({alt, role}: {alt?: string; role?: string}) => (
+  <img src={image} role={role} alt={alt} width='600px' />
+)

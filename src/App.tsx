@@ -1,18 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { Image } from "./components/Image";
-
-if (process.env.NODE_ENV !== "production") {
-  const axe = require("@axe-core/react");
-  axe(React, ReactDOM, 1000);
-}
+import {Image} from './components/Image'
 
 function App() {
-  return (
-    <div>
-      <Image />
-    </div>
-  );
+  return <Image />
 }
 
-export default App;
+export default App
